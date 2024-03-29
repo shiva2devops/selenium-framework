@@ -1,0 +1,22 @@
+{
+  "TestData":[
+    {
+      "TestCaseName": "Tc_01_home",
+      "Iteration": 1,
+      "username": "sgangadhari@abs-cbn.com",
+      "password": "xxxxxxx@123"
+    },
+    {
+      "TestCaseName": "Tc_01_home",
+      "Iteration": 2,
+      "username": "srigangadhari@abs-cbn.com",
+      "password": "xxxxxxx@456"
+    },
+    {
+      "TestCaseName": "Tc_01_home",
+      "Iteration": 3,
+      "username": "sgangadharig@abs-cbn.com",
+      "password": "xxxxxxx@789"
+    }
+  ]
+}

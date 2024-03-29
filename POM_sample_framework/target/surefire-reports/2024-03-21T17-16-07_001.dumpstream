@@ -1,0 +1,4 @@
+# Created at 2024-03-21T17:16:08.129
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SeleniumNotes\Selenium_projects\ABS-CBN Automation\POM_sample_framework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

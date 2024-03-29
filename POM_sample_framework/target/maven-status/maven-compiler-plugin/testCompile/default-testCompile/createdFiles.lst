@@ -1,0 +1,10 @@
+com\annotations\Annotations.class
+com\getconfidetails\ReadConfigDetails.class
+com\applicationobjects\HomePageOR.class
+com\testcases\test.class
+com\applicationpages\ArticlePage.class
+com\applicationpages\HomePage.class
+com\testcases\test2.class
+com\applicationobjects\ArticlePageOR.class
+com\genericmethods\GenericMethods.class
+com\readtestdata\ReadJsonData.class
